@@ -1,8 +1,5 @@
 # FitPulse — React Native App
 
-Same project as the Landing Page assignment, extended with navigation,
-hooks, forms, and list rendering for the second assignment.
-
 ## Project structure
 
 ```
